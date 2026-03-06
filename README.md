@@ -25,15 +25,15 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goulart21&show_icons=true&theme=tokyonight&hide_border=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulart21&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulart21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulart21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-- 📚 Técnico em Informática em andamento  
+- 📚 Técnico em Informática 
 - 💡 Interesses: Web, Back-End, Machine Learning e Automação  
 - 🚧 Projetos práticos sempre em desenvolvimento  
 - 🔗 Confira meus repositórios para ver o que estou criando!
