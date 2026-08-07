@@ -24,8 +24,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### **Mobile & Front-end**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,6 +39,16 @@
 
 ---
 
-### 📫 Conecte-se comigo!
+### 📊 Estatísticas do GitHub
 
-- **LinkedIn:** [linkedin.com/in/pedrotgs](https://www.linkedin.com/in/pedrotgs)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="170" />
+</div>
+
+---
+
+### ✉️ Contatos
+
+- 💼 **LinkedIn:** [linkedin.com/in/pedrotgs](https://www.linkedin.com/in/pedrotgs)
+- 📧 **E-mail:** [pedrtgs@icloud.com](mailto:pedrotgs@icloud.com)
