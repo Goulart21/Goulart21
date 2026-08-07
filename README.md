@@ -1,151 +1,96 @@
 <div align="center">
 
-# 👋 Olá, eu sou Pedro Goulart
+# Pedro Goulart
 
-### 🎓 Estudante de Engenharia de Software
-### 💻 Desenvolvedor Full Stack
-### 🚀 Apaixonado por Back-End, Mobile e Inteligência Artificial
+Software Engineering Student • Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot;Flutter+%7C+Firebase;PHP+%7C+JavaScript+%7C+MySQL;Python+%7C+Machine+Learning;Sempre+aprendendo+algo+novo." />
+Belo Horizonte, MG • Brazil
+
+[LinkedIn](https://linkedin.com/in/pedrotgs) •
+[Email](mailto:pedrotgs@icloud.com)
 
 </div>
 
 ---
 
-# 🚀 Stack
+## About
 
-<div align="center">
+I'm a Software Engineering student passionate about building web and mobile applications.
 
-### Linguagens
+Currently focused on:
 
-<img src="https://skillicons.dev/icons?i=java,python,php,js,dart,html,css,mysql" />
+- Back-End Development
+- Mobile Development
+- Machine Learning
+- Software Architecture
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,php,js,dart,html,css,mysql"/>
+</p>
 
 ### Frameworks
 
-<img src="https://skillicons.dev/icons?i=spring,flutter,nodejs,express,bootstrap,tailwind,firebase" />
+<p>
+<img src="https://skillicons.dev/icons?i=spring,flutter,nodejs,bootstrap,firebase"/>
+</p>
 
-### Ferramentas
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,maven" />
-
-</div>
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Goulart21&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 💼 Projetos
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🚐 PI-VAN
-
-Sistema completo para gerenciamento de transporte universitário.
-
-### Tecnologias
-
-Flutter • Spring Boot • Firebase • Java
-
-</td>
-
-<td width="50%">
-
-## 🍬 E-commerce de Doces
-
-Sistema de e-commerce com painel administrativo.
-
-### Tecnologias
-
-PHP • JavaScript • MySQL
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 👨‍💼 Sistema RH
-
-Reconhecimento facial para controle de funcionários.
-
-### Tecnologias
-
-Python • Flask • SQLite
-
-</td>
-
-<td>
-
-## 📦 Sistema de Estoque
-
-Controle de estoque com QR Code e código de barras.
-
-### Tecnologias
-
-JavaScript • HTML • MySQL
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🎓 Formação
-
-🎓 Engenharia de Software *(Em andamento)*
-
-💻 Técnico em Informática
-
-🌐 Programador Web
-
-⚙️ Desenvolvedor Full Stack
-
-📱 Programação para Dispositivos Móveis
-
-🤖 Python para Machine Learning e Redes Neurais *(Em andamento)*
-
----
-
-# 🌎 Onde me encontrar
-
-<p align="center">
-
-<a href="mailto:pedrotgs@icloud.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/pedrotgs">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Goulart21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,maven"/>
 </p>
 
 ---
 
+## Featured Projects
+
+### 🚐 PI-VAN
+
+Transportation management platform developed with Flutter and Spring Boot.
+
+---
+
+### 🍬 Candy Store E-commerce
+
+Complete e-commerce built with PHP, JavaScript and MySQL.
+
+---
+
+### 👨‍💼 Human Resources System
+
+Employee management system with facial recognition using Python.
+
+---
+
+### 📦 Inventory Management
+
+Inventory system with QR Code, barcode and PDF generation.
+
+---
+
+## Education
+
+- Software Engineering *(In Progress)*
+- Computer Technician
+- Full Stack Development
+- Web Development
+- Mobile Development
+- Machine Learning & Neural Networks *(In Progress)*
+
+---
+
+## GitHub
+
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Goulart21&style=for-the-badge&color=blueviolet)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&hide_border=true&theme=transparent"/>
 
 </div>
