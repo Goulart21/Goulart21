@@ -1,49 +1,101 @@
-<h1 align="center">Olá, eu sou o Pedro Goulart! 👋</h1>
-<p align="center">💻 Desenvolvedor em formação | Apaixonado por tecnologia e soluções inteligentes</p>
-
----
-
-## 🚀 Tecnologias que utilizo
+<h1 align="center">Olá! 👋 Eu sou Pedro Goulart</h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px"/>
+  💻 Desenvolvedor Full Stack em formação <br>
+  🎓 Técnico em Informática | Estudante de Desenvolvimento de Software <br>
+  📍 Belo Horizonte - MG, Brasil
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 🚀 Tecnologias
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulart21&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulart21&layout=compact&theme=tokyonight&hide_border=true"/>
+### 💻 Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,ts,dart,html,css" />
+</p>
+
+### ⚙️ Frameworks e Bibliotecas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flutter,nodejs,express,bootstrap,tailwind" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
+</p>
+
+### 🛠️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,maven" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+# 📊 Estatísticas
 
-- 📚 Técnico em Informática  
-- 💡 Interesses: Web, Back-End, Machine Learning e Automação  
-- 🚧 Projetos práticos sempre em desenvolvimento  
-- 🔗 Confira meus repositórios para ver o que estou criando!
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Goulart21&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📫 Entre em contato
+# 💼 Projetos em Destaque
 
-- ✉️ Email: pedrotgs@icloud.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pedrotgs)  
-- 📍 Belo Horizonte – MG, Brasil  
+🚐 **PI-VAN**
+> Sistema para gerenciamento de transporte universitário desenvolvido em Flutter, Firebase e Spring Boot.
+
+🛒 **FoodExpress**
+> Sistema completo para gerenciamento de restaurantes e pedidos.
+
+👨‍💻 **Sistema RH com Reconhecimento Facial**
+> Controle de funcionários utilizando Python, Flask e reconhecimento facial.
+
+🌱 **EcoMundo**
+> Plataforma de e-commerce para produtos sustentáveis.
 
 ---
 
-<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+# 🧠 Sobre mim
+
+- 🎓 Técnico em Informática
+- 📚 Estudante de Desenvolvimento de Software
+- 💻 Apaixonado por Back-End, Desenvolvimento Web e Inteligência Artificial
+- 🤖 Estudando Machine Learning e Redes Neurais
+- 🚀 Sempre desenvolvendo projetos para aprender novas tecnologias
+
+---
+
+# 📫 Contato
+
+📧 **Email:** pedrotgs@icloud.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/pedrotgs
+
+🐙 **GitHub:**  
+https://github.com/Goulart21
+
+📍 Belo Horizonte - MG, Brasil
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Goulart21&color=blueviolet&style=for-the-badge"/>
+
+</p>
