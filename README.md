@@ -47,7 +47,7 @@
 # 💼 Projetos em Destaque
 
 ### 🚐 PI-VAN
-Sistema para gerenciamento de transporte universitário desenvolvido utilizando Flutter, Firebase e Spring Boot.
+Aplicação mobile para gerenciamento de transporte universitário desenvolvido utilizando Flutter e Firebase.
 
 ### 👨‍💼 Sistema RH com Reconhecimento Facial
 Aplicação desenvolvida em Python para controle de funcionários utilizando reconhecimento facial.
