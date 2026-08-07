@@ -51,4 +51,4 @@
 ### ✉️ Contatos
 
 - 💼 **LinkedIn:** [linkedin.com/in/pedrotgs](https://www.linkedin.com/in/pedrotgs)
-- 📧 **E-mail:** [pedrtgs@icloud.com](mailto:pedrotgs@icloud.com)
+- 📧 **E-mail:** [pedrotgs@icloud.com](mailto:pedrotgs@icloud.com)
