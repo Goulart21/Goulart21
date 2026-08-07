@@ -22,11 +22,6 @@
   <img src="https://skillicons.dev/icons?i=spring,flutter,nodejs,express,bootstrap,tailwind,firebase,docker,git,github,postman,vscode,idea,maven" />
 </p>
 
-### 📚 Atualmente estudando
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,flutter,spring" />
-</p>
 
 - Engenharia de Software
 - Arquitetura de Software
@@ -77,7 +72,7 @@ Sistema para gerenciamento de produtos utilizando códigos de barras, QR Code, g
 
 🌐 Programador Web
 
-🤖 Python para Machine Learning e Redes Neurais *(em andamento)*
+🤖 Python para Machine Learning e Redes Neurais 
 
 ---
 
