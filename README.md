@@ -80,7 +80,6 @@ Sistema para gerenciamento de produtos utilizando códigos de barras, QR Code, g
 
 - 💻 Apaixonado por desenvolvimento de software
 - 🚀 Interesse em Back-End, Desenvolvimento Web e Mobile
-- 🤖 Estudando Inteligência Artificial e Machine Learning
 - 📚 Sempre aprendendo novas tecnologias através de projetos práticos
 
 ---
