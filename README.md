@@ -38,15 +38,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goulart21/Goulart21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="170" />
-</div>
-
----
-
 ### 📫 Conecte-se comigo!
 
 - **LinkedIn:** [linkedin.com/in/pedrotgs](https://www.linkedin.com/in/pedrotgs)
