@@ -1,8 +1,8 @@
 <h1 align="center">Olá! 👋 Eu sou Pedro Goulart</h1>
 
 <p align="center">
+  🎓 Estudante de Engenharia de Software <br>
   💻 Desenvolvedor Full Stack em formação <br>
-  🎓 Técnico em Informática | Estudante de Desenvolvimento de Software <br>
   📍 Belo Horizonte - MG, Brasil
 </p>
 
@@ -13,70 +13,80 @@
 ### 💻 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,php,js,ts,dart,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,js,dart,html,css,mysql" />
 </p>
 
-### ⚙️ Frameworks e Bibliotecas
+### ⚙️ Frameworks e Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flutter,nodejs,express,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring,flutter,nodejs,express,bootstrap,tailwind,firebase,docker,git,github,postman,vscode,idea,maven" />
 </p>
 
-### 🗄️ Banco de Dados
+### 📚 Atualmente estudando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,flutter,spring" />
 </p>
 
-### 🛠️ Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,maven" />
-</p>
+- Engenharia de Software
+- Arquitetura de Software
+- Machine Learning
+- Redes Neurais
+- Desenvolvimento Mobile
 
 ---
 
 # 📊 Estatísticas
 
 <p align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Goulart21&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
 # 💼 Projetos em Destaque
 
-🚐 **PI-VAN**
-> Sistema para gerenciamento de transporte universitário desenvolvido em Flutter, Firebase e Spring Boot.
+### 🚐 PI-VAN
+Sistema para gerenciamento de transporte universitário desenvolvido utilizando Flutter, Firebase e Spring Boot.
 
-🛒 **FoodExpress**
-> Sistema completo para gerenciamento de restaurantes e pedidos.
+### 👨‍💼 Sistema RH com Reconhecimento Facial
+Aplicação desenvolvida em Python para controle de funcionários utilizando reconhecimento facial.
 
-👨‍💻 **Sistema RH com Reconhecimento Facial**
-> Controle de funcionários utilizando Python, Flask e reconhecimento facial.
+### 🍬 E-commerce de Doces
+Sistema completo de e-commerce desenvolvido com PHP, JavaScript e MySQL.
 
-🌱 **EcoMundo**
-> Plataforma de e-commerce para produtos sustentáveis.
+### 📦 Sistema de Estoque
+Sistema para gerenciamento de produtos utilizando códigos de barras, QR Code, geração de PDF e banco de dados.
+
+---
+
+# 🎓 Formação
+
+🎓 Engenharia de Software *(em andamento)*
+
+🎓 Técnico em Informática
+
+📱 Programação de Dispositivos Móveis
+
+💻 Desenvolvedor Full Stack
+
+🌐 Programador Web
+
+🤖 Python para Machine Learning e Redes Neurais *(em andamento)*
 
 ---
 
 # 🧠 Sobre mim
 
-- 🎓 Técnico em Informática
-- 📚 Estudante de Desenvolvimento de Software
-- 💻 Apaixonado por Back-End, Desenvolvimento Web e Inteligência Artificial
-- 🤖 Estudando Machine Learning e Redes Neurais
-- 🚀 Sempre desenvolvendo projetos para aprender novas tecnologias
+- 💻 Apaixonado por desenvolvimento de software
+- 🚀 Interesse em Back-End, Desenvolvimento Web e Mobile
+- 🤖 Estudando Inteligência Artificial e Machine Learning
+- 📚 Sempre aprendendo novas tecnologias através de projetos práticos
 
 ---
 
@@ -85,7 +95,7 @@
 📧 **Email:** pedrotgs@icloud.com
 
 💼 **LinkedIn:**  
-https://www.linkedin.com/in/pedrotgs
+https://linkedin.com/in/pedrotgs
 
 🐙 **GitHub:**  
 https://github.com/Goulart21
@@ -95,7 +105,5 @@ https://github.com/Goulart21
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Goulart21&color=blueviolet&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=Goulart21&style=for-the-badge&color=blueviolet"/>
 </p>
