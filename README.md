@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrotgs)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goulart21)
+[![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=icloud&logoColor=white)](mailto:pedrotgs@icloud.com)
 
 ---
 
@@ -45,10 +46,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="170" />
 </div>
-
----
-
-### ✉️ Contatos
-
-- 💼 **LinkedIn:** [linkedin.com/in/pedrotgs](https://www.linkedin.com/in/pedrotgs)
-- 📧 **E-mail:** [pedrotgs@icloud.com](mailto:pedrotgs@icloud.com)
