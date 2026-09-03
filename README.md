@@ -42,8 +42,10 @@
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
