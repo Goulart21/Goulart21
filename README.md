@@ -41,18 +41,11 @@
 ---
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <img
-    height="45"
-    src="https://github-readme-stats.vercel.app/api?username=Goulart21&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="45"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goulart21&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulart21&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulart21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulart21&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goulart21&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 </div>
