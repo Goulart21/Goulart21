@@ -42,4 +42,6 @@
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-vercel.vercel.app?user=Goulart21&theme=dark&hide_border=true&border_radius=5.7)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-vercel.vercel.app?user=Goulart21&theme=dark&hide_border=true&border_radius=5.7" alt="GitHub Streak" /></a>
 </div>
