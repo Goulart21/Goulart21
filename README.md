@@ -43,7 +43,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-vercel.vercel.app?user=Goulart21&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-vercel.vercel.app?username=Goulart21&theme=tokyonight&hide_border=true"
   />
 </p>
 </div>
