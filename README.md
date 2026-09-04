@@ -41,9 +41,5 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-vercel.vercel.app?username=Goulart21&theme=tokyonight&hide_border=true"
-  />
-</p>
+[![GitHub Streak](https://github-readme-streak-vercel.vercel.app?user=Goulart21&theme=dark&hide_border=true&border_radius=5.7)](https://git.io/streak-stats)
 </div>
