@@ -43,6 +43,7 @@
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
+  <a href="https://git-dragon.vercel.app"><img src="https://git-dragon.vercel.app/api/dragon?username=Goulart21" alt="GitHub Tamagotchi" /></a>
   <img
     height="180em"
     src="https://github-stats-extended.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true"
