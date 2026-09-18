@@ -52,6 +52,6 @@
     height="180em"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
   />
-    <a href="https://git-dragon.vercel.app"><img src="https://git-dragon.vercel.app/api/dragon?username=Goulart21" alt="GitHub Tamagotchi" /></a>
+
 </p>
 </div>
