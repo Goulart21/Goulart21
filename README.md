@@ -42,12 +42,6 @@
 
 <h2 align="center">📊 Estatísticas do GitHub</h2>
 
-<p align="center">
+<p align="center"> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" /> </p>
 
-  <img
-    height="180em"
-    src="https://github-stats-extended.vercel.app/api?username=Goulart21&show_icons=true&theme=tokyonight&hide_border=true"/>
-    
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Goulart21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</p>
+<p align="center"> <a href="https://git-dragon.vercel.app"> <img src="https://git-dragon.vercel.app/api/dragon?username=Goulart21" alt="GitHub Tamagotchi" /> </a> </p>
